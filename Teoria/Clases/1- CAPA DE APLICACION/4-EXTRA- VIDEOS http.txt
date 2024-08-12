@@ -1,0 +1,11 @@
+ejemplos http
+https://www.youtube.com/playlist?list=PLWRFVCdbvpAksjCF-A30QnloGYi784LA7
+
+ejemplos cookies
+https://www.youtube.com/watch?v=Pz_LuPU1aQo&list=PLWRFVCdbvpAnx_VihKrJKdDK0pVCBAojq
+
+exPLICACION http y curl
+https://www.youtube.com/watch?v=Pz_LuPU1aQo&list=PLWRFVCdbvpAnx_VihKrJKdDK0pVCBAojq
+
+HTTP/2
+https://www.youtube.com/watch?v=91aMypPvXtY&list=PLWRFVCdbvpAlQ4-pfw0oGWTqS7SsFcItc
