@@ -1,0 +1,13 @@
+curl -I https://....    
+curl https://.... | jq
+
+keep-alive: conexion persistente. (se conecta y se solicita varios requisitos en la misma conexion)
+
+-V : modo detallado
+-s : silencio 
+-I : muestra el encabezado
+-H : permite realizar modificar el valor de alfun tag del http
+| jq : te cambia el contenido de un curl solo a modo json
+
+-X HEAD: Especifica que queremos usar el método HTTP HEAD, PUT,GET, POST , etc.
+-I: Es una abreviación para --head en curl, que también realiza una solicitud HEAD.
