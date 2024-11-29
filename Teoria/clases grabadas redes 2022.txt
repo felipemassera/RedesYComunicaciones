@@ -6,7 +6,7 @@
 5- Capa de aplic - Mail y Capa de Transporte(Intro) - 13/4 - https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/7fb26872c9aae8f1bebfe34017d48a8dd2bfddba-1649886587941
 - Capa de transporte - 20/4 - https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/51dddba72150c621c4517d51711c08ea8f7015c6-1650492050091
 - Capa de transporte (cont) - 27/4 - https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/15938871ab0dcda82c2e9437146a529d2140a07a-1651096552662
-- Capa de transporte (cont) e Intro a capa de red- 4/5 - https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/b6806a4a9e1b358b1a2c30a631640c626295f987-1651699822073
-- Capa de red - 11/5 - https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/6e47e71679494159e62cb18b4db65fa855f49503-1652306386693
+8- Capa de transporte (cont) e Intro a capa de red- 4/5 - https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/b6806a4a9e1b358b1a2c30a631640c626295f987-1651699822073
+9- Capa de red - 11/5 - https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/6e47e71679494159e62cb18b4db65fa855f49503-1652306386693
 - Capa de enlace- 1/6 - https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/85f68a320bfb3f9801a19eb5c92d05bcaa7ec28b-1654120460566
 - Capa de enlace - 8/6 - https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/d229a2a23736ed64601f03de677f06ac557f8239-1654724694422
